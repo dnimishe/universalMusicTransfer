@@ -1,0 +1,15 @@
+{
+  "name": "universalmusictransfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SpotifyApiCall.js",
+  "scripts": {
+    "test": "./SpotifyApiCall.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
